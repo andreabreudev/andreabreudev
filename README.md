@@ -1,6 +1,11 @@
 ## Olá, eu sou André de Abreu Amorim, programador Front-End!
 👨‍💻 Desenvolvedor Front-End
 
+<h2>Visão Geral</h2>
+<p>Sou um desenvolvedor front-end apaixonado por criar experiências web atraentes e funcionais. Com uma sólida experiência em HTML, CSS e JavaScript, meu objetivo é desenvolver interfaces de usuário intuitivas e responsivas que melhorem a experiência do usuário. </p>
+
+<p>Estou constantemente buscando aprender e me atualizar sobre as mais recentes tecnologias e tendências em desenvolvimento web. Sou apaixonado por criar sites e aplicativos elegantes, otimizados e acessíveis, que ofereçam uma experiência perfeita em todos os dispositivos.</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="de-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="de-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
