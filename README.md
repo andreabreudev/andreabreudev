@@ -1,4 +1,4 @@
-## Olá, eu sou André de Abreu Amorim, programador Front-End!
+## Olá, meu nome é André Abreu Amorim!
 👨‍💻 Desenvolvedor Front-End
 
 <h2>Visão Geral</h2>
